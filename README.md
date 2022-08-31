@@ -9,8 +9,8 @@ The code is written in Python.
 ### Specifications
 The database will contain:
 *  Patient name
-  * First name
-  * Last name
+   * First name
+   * Last name
 * Age
 * Blood test
 * Test Results
