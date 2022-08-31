@@ -1,1 +1,3 @@
-# BME_547_Fall_2022
+# Patient Health Database
+
+Author: Saili Kaggallu
