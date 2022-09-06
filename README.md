@@ -6,14 +6,14 @@ Author: Saili Kaggallu
 The code in this repository will run a patient health database. 
 The code is written in Python. 
 
-## Specifications
+### Specifications
 The database will contain:
-* Patient name
-  *First name
+*  Patient name
+  * First name
   * Last name
 * Age
 * Blood test
 * Test Results
   1. HDL
-  2. LDL
+  1. LDL
  
