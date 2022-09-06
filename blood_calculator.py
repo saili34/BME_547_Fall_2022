@@ -68,8 +68,8 @@ def LDL_driver():
 
 def Cholesterol_driver():
     chol_value = input_chol()
-    answer3 = check_chol(chol_value)
-    output_chol_result(chol_value, answer3)
+    answer4 = check_chol(chol_value)
+    output_chol_result(chol_value, answer4)
 
 def output_HDL_result(hdl_value, charac):
     print("The results for an HDL value of {} is {}".format(hdl_value, charac))
