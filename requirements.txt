@@ -1,0 +1,3 @@
+# Names of packages I want to install in my virtual environment myvenv
+
+jupyter
